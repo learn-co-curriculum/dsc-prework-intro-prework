@@ -40,7 +40,7 @@ Here are a few best practices to follow when working through this material:
     
     Click on the small github logo in the upper-right hand corner of the page to be taken to the github page with the solutions.
     
-    Github allows different versions of files to be stored in the same `repo`, using different spaces called `branches`. Look in the upper-left corner of a `repo` to see which branch you're in. For example, this indicates you're viewing the `master` branch
+    Github allows different versions of files to be stored in the same `repo`, using different spaces called `branches`. Look in the upper-left corner of a `repo` to see which branch you're in. For example, this indicates you're viewing the `master` branch                                  
 ![](https://raw.githubusercontent.com/learn-co-curriculum/dsc-prework-intro-prework/master/viz/master_branch.png)
     
     Solutions to labs are located in the `solution` branch.  
