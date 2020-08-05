@@ -45,7 +45,7 @@ Here are a few best practices to follow when working through this material:
     
     Solutions to labs are located in the `solution` branch.  
     
-    To navigate to the `solution` branch, click on the button which lists the current branch, then click on `solution`
+    To navigate to the `solution` branch, click on the button which lists the current branch, then click on `solution`                         
 ![](viz/switching_branches.png)
    
     You should see that you are now viewing files stored in the `solution` branch
