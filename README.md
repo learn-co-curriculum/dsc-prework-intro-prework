@@ -35,7 +35,7 @@ Here are a few best practices to follow when working through this material:
 
   - ##### Second way:
   
-    Part of the Flatiron program is to use an industry-standard tool called Github to manage files.  The main unit used to house files is called a `repository`, or `repo` ("ree-po") for short.  The github logo looks like this:
+    Part of the Flatiron program is to use an industry-standard tool called Github to manage files.  The main unit used to house files is called a `repository`, or `repo` ("ree-po") for short.  The github logo looks like this:             
 ![](viz/github.png)
     
     Click on the small github logo in the upper-right hand corner of the page to be taken to the github page with the solutions.
