@@ -59,7 +59,7 @@ Here are a few best practices to follow when working through this material:
 
 - For every solution you see, type out the code 5 times and say what the code is doing out loud!
 
-- In coding in general and python specifically, there are lots of ways to accomplish any given task.  It is a common occurence to encounter code in the solution branch that accomplishes the same result as the code you wrote but in a different way.  Consider why the solution branch code might be written differently than your code, even though it accomplishes the same thing.  
+- In coding in general and python specifically, there are lots of ways to accomplish any given task.  It is a common occurence to encounter code in the solutions that accomplishes the same result as the code you wrote but in a different way.  Consider why the solution code might be written differently than your code, even though it accomplishes the same thing.  
   - Things to ask yourself if the solution code is different than your answer but accomplishes the same thing: 
     - Is the code in the solution shorter?  
     - Is it eaiser to read?  
