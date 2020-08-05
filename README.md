@@ -35,7 +35,7 @@ Here are a few best practices to follow when working through this material:
 
   - ##### Second way:
   
-    Part of the Flatiron program is to use an industry-standard tool called Github to manage files.  The main unit used to house files is called a `repository`, or `repo` ("ree-po") for short.  The github logo looks like this:             
+    Part of the Flatiron program is to use an industry-standard tool called github to manage files.  The main unit used to house files is called a `repository`, or `repo` ("ree-po") for short.  The github logo looks like this:             
 ![](viz/github.png)
     
     Click on the small github logo in the upper-right hand corner of the page to be taken to the github page with the solutions.
@@ -55,14 +55,14 @@ Here are a few best practices to follow when working through this material:
     
 - If you can't figure out why your code isn't working, look back to the section of prework that teaches that code, or try googling for information about the specific syntax you're trying to use.  ("90% of programming is googling StackOverflow").  
     
-- If you get completely stuck and need to check the solutions to move forward, just look at the specific solution for the piece you got stuck on, instead of reading the whole solution.
+- If you get completely stuck and need to check the solutions to move forward, just look at the specific solution for the piece you got stuck on, instead of reading the solutions for the entire lab.
 
 - For every solution you see, type out the code 5 times and say what the code is doing out loud!
 
 - In coding in general and python specifically, there are lots of ways to accomplish any given task.  It is a common occurence to encounter code in the solutions that accomplishes the same result as the code you wrote but in a different way.  Consider why the solution code might be written differently than your code, even though it accomplishes the same thing.  
   - Things to ask yourself if the solution code is different than your answer but accomplishes the same thing: 
     - Is the code in the solution shorter?  
-    - Is it eaiser to read?  
+    - Is it easier to read?  
     - Does it use different components?  
     - Is it structured in a different way?
   
