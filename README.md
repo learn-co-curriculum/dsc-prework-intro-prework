@@ -29,11 +29,11 @@ Here are a few best practices to follow when working through this material:
   
 - *Instructions to see the solutions*: there are two ways to see the solutions to a lab.
 
-  - # First way: 
+  - First way: 
     Click the `I'M DONE` button on the right-hand side of the page.  A grey `solutions` button will pop up.
   ![](viz/solution_button.png)
 
-  - ##### Second way:
+  - Second way:
   
     Part of the Flatiron program is to use an industry-standard tool called github to manage files.  The main unit used to house files is called a `repository`, or `repo` ("ree-po") for short.  The github logo looks like this:             
 ![](viz/github.png)
