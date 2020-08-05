@@ -30,8 +30,7 @@ Here are a few best practices to follow when working through this material:
 - *Instructions to see the solutions*: there are two ways to see the solutions to a lab.
 
   - First way: 
-    Click the `I'M DONE` button on the right-hand side of the page.  A grey `solutions` button will pop up.               
-    
+    Click the `I'M DONE` button on the right-hand side of the page.  A grey `solutions` button will pop up.           
   ![](https://raw.githubusercontent.com/learn-co-curriculum/dsc-prework-intro-prework/master/viz/solution_button.png)
 
   - Second way:
