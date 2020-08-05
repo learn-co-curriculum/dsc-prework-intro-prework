@@ -31,25 +31,25 @@ Here are a few best practices to follow when working through this material:
 
   - First way: 
     Click the `I'M DONE` button on the right-hand side of the page.  A grey `solutions` button will pop up.
-  ![](viz/solution_button.png)
+  ![](https://github.com/learn-co-curriculum/dsc-prework-intro-prework/blob/master/viz/solution_button.png)
 
   - Second way:
   
     Part of the Flatiron program is to use an industry-standard tool called github to manage files.  The main unit used to house files is called a `repository`, or `repo` ("ree-po") for short.  The github logo looks like this:             
-![](viz/github.png)
+![](https://github.com/learn-co-curriculum/dsc-prework-intro-prework/blob/master/viz/github.png)
     
     Click on the small github logo in the upper-right hand corner of the page to be taken to the github page with the solutions.
     
     Github allows different versions of files to be stored in the same `repo`, using different spaces called `branches`. Look in the upper-left corner of a `repo` to see which branch you're in. For example, this indicates you're viewing the `master` branch
-![](viz/master_branch.png)
+![](https://github.com/learn-co-curriculum/dsc-prework-intro-prework/blob/master/viz/master_branch.png)
     
     Solutions to labs are located in the `solution` branch.  
     
     To navigate to the `solution` branch, click on the button which lists the current branch, then click on `solution`                         
-![](viz/switching_branches.png)
+![](https://github.com/learn-co-curriculum/dsc-prework-intro-prework/blob/master/viz/switching_branches.png)
    
     You should see that you are now viewing files stored in the `solution` branch
-![](viz/solution_branch.png)
+![](https://github.com/learn-co-curriculum/dsc-prework-intro-prework/blob/master/viz/solution_branch.png)
    
 - Check the solutions only when you're done with the lab.  Remember, getting stuck and working through individual pieces of code and concepts is part of the process.  
     
