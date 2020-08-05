@@ -51,11 +51,11 @@ Here are a few best practices to follow when working through this material:
     You should see that you are now viewing files stored in the `solution` branch
 ![](viz/solution_branch.png)
    
-    Check the solutions only when you're done with the lab.  Remember, getting stuck and working through individual pieces of code and concepts is part of the process.  
+- Check the solutions only when you're done with the lab.  Remember, getting stuck and working through individual pieces of code and concepts is part of the process.  
     
-    If you can't figure out why your code isn't working, look back to the section of prework that teaches that code, or try googling for information about the specific syntax you're trying to use.  ("90% of programming is googling StackOverflow").  
+- If you can't figure out why your code isn't working, look back to the section of prework that teaches that code, or try googling for information about the specific syntax you're trying to use.  ("90% of programming is googling StackOverflow").  
     
-    If you get completely stuck and need to check the solutions to move forward, just look at the specific solution for the piece you got stuck on, instead of reading the whole solution.
+- If you get completely stuck and need to check the solutions to move forward, just look at the specific solution for the piece you got stuck on, instead of reading the whole solution.
 
 - For every solution you see, type out the code 5 times and say what the code is doing out loud!
 
