@@ -1,8 +1,6 @@
-tags: 
-- jupyter 
-- python 
-
-languages: python 
-
-
+tags:
+  - readme
+  - irb
+languages:
+  - ruby
 resources: 0
